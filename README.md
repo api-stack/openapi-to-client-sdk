@@ -11,3 +11,7 @@ This command line tools build cleaner client SDKs from OpenAPI 3.x.x spec.
 - [ ] Javascript
 - [ ] Python 3.x
 - [ ] Ruby
+
+# Thanks to these projects
+
+[1] https://github.com/getkin/kin-openapi
